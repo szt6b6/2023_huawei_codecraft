@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\DataInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\avoidObstacle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\bfs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\commenFun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\getAim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\load_pthread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\pathConflic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\pathDesign.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\pathDesign_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\speedControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DCCED7F5-341D-3EC6-9761-52A89838DE77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

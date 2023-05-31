@@ -1,0 +1,10 @@
+^D:\DOCUMENTS\PROJECTS\2023华为软件精英挑战赛\FU_SAI\WINDOWSRELEASE\SRC_NEW\CMAKEFILES\3E5A57EFF1ACE3EEFB9C7AE59AC65C51\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SD:/Documents/projects/2023华为软件精英挑战赛/fu_sai/WindowsRelease/src_new -BD:/Documents/projects/2023华为软件精英挑战赛/fu_sai/WindowsRelease/src_new --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Documents/projects/2023华为软件精英挑战赛/fu_sai/WindowsRelease/src_new/CodeCraftSDK.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

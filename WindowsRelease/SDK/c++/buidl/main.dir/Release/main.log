@@ -1,0 +1,4 @@
+﻿  getAim.cpp
+D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\getAim.cpp(259): warning C4305: “=”: 从“int”到“bool”截断
+D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\getAim.cpp(285): warning C4806: “==”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+  main.vcxproj -> D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\buidl\Release\main.exe

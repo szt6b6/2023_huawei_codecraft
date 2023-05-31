@@ -1,0 +1,10 @@
+^D:\DOCUMENTS\PROJECTS\2023华为软件精英挑战赛\FU_SAI\WINDOWSRELEASE\HUAWEICPP\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SD:/Documents/projects/2023华为软件精英挑战赛/fu_sai/WindowsRelease/huaweicpp -BD:/Documents/projects/2023华为软件精英挑战赛/fu_sai/WindowsRelease/huaweicpp --check-stamp-file D:/Documents/projects/2023华为软件精英挑战赛/fu_sai/WindowsRelease/huaweicpp/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

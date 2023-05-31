@@ -1,0 +1,14 @@
+﻿  1>Building Custom Rule D:/Documents/projects/2023华为软件精英挑战赛/WindowsRelease/SDK/c++/CMakeLists.txt
+  load_pthread.cpp
+..\load_pthread.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  DataInterface.cpp
+  avoidObstacle.cpp
+D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\avoidObstacle.cpp(20): warning C4101: “Va2bLen”: 未引用的局部变量
+D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\avoidObstacle.cpp(68): warning C4101: “Va2bLen”: 未引用的局部变量
+  commenFun.cpp
+  getAim.cpp
+  main.cpp
+  speedControl.cpp
+  getAimBackUp.cpp
+  正在生成代码...
+x64\Release\load_pthread.obj : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突

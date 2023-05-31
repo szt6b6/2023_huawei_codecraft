@@ -1,0 +1,25 @@
+﻿  findLines.cpp
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(233): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(234): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(238): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(239): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(247): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(248): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(252): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(253): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(355): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(356): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(360): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(361): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(369): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(374): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(375): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(474): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(475): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(480): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(481): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(577): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(578): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(583): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\findLines.cpp(584): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  main.vcxproj -> D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\huaweicpp\Debug\main.exe

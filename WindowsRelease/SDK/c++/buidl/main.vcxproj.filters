@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\DataInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\avoidObstacle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\commenFun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\getAim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\speedControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="getAimBackUp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\projects\2023华为软件精英挑战赛\WindowsRelease\SDK\c++\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EC514DA9-C50F-3CD5-A406-F177D0FE1CDC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\globalVariables.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

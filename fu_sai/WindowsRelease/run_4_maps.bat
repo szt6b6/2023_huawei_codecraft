@@ -1,0 +1,1 @@
+.\Robot.exe "src\HuaweiCodeCraft\x64\Release\HuaweiCodeCraft.exe" -m chusai_maps\1.txt -f & .\Robot.exe "src\HuaweiCodeCraft\x64\Release\HuaweiCodeCraft.exe" -m chusai_maps\2.txt -f & .\Robot.exe "src\HuaweiCodeCraft\x64\Release\HuaweiCodeCraft.exe" -m chusai_maps\3.txt -f & .\Robot.exe "src\HuaweiCodeCraft\x64\Release\HuaweiCodeCraft.exe" -m chusai_maps\4.txt -f

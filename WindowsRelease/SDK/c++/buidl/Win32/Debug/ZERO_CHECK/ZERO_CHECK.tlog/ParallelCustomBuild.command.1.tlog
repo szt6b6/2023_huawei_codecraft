@@ -1,0 +1,10 @@
+^D:\DOCUMENTS\PROJECTS\2023华为软件精英挑战赛\WINDOWSRELEASE\SDK\C++\BUIDL\CMAKEFILES\921575DBF77268F595E84E4541A51D74\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SD:/Documents/projects/2023华为软件精英挑战赛/WindowsRelease/SDK/c++ -BD:/Documents/projects/2023华为软件精英挑战赛/WindowsRelease/SDK/c++/buidl --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Documents/projects/2023华为软件精英挑战赛/WindowsRelease/SDK/c++/buidl/CodeCraftSDK.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

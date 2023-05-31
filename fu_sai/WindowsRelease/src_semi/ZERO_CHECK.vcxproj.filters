@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\projects\2023华为软件精英挑战赛\fu_sai\WindowsRelease\src_new\CMakeFiles\3e5a57eff1ace3eefb9c7ae59ac65c51\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4CE91F8C-1D4A-3777-AE9A-A03A21B2225E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
